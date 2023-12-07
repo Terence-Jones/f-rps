@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2e1cykWsNS8My1PzGGhKLsdMWN/nwpKuoO0gMFLW49uKf72lvdLBHSqMqvPG12AYk3YpDaNcAzqChmN9c0UcQ==",
+  "success": true,
+  "projectFilePath": "/Users/terencejones/source2-350/repos/rpsf/rpsf.fsproj",
+  "expectedPackageFiles": [
+    "/Users/terencejones/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
